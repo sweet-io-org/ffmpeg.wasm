@@ -1,5 +1,5 @@
 {
-  "name": "@ffmpeg/ffmpeg",
+  "name": "@sweet/ffmpeg",
   "version": "0.9.3",
   "description": "FFmpeg WebAssembly version",
   "main": "src/index.js",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ffmpegwasm/ffmpeg.wasm.git"
+    "url": "git+https://github.com/sweet-io-org/ffmpeg.wasm.git"
   },
   "keywords": [
     "ffmpeg",
